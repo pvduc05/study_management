@@ -1,0 +1,1 @@
+const studySchemaVersion = 2;
